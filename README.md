@@ -1,4 +1,4 @@
 # my-first-project
 This is my first git repository.
 <br>
-Author - Supreet (blaster)
+Author - Supreet (Master blaster)
